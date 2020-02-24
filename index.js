@@ -27,6 +27,6 @@ function makeInt(n) {
 }
 
 function makeIntBase10(n,base) {
-  parseInt(n,base)
+  parseInt(n,10)
   return (n)
 }
