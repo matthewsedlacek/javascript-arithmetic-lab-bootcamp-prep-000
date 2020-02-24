@@ -21,7 +21,7 @@ function decrement(n) {
   return (n)
 }
 
-function makeInt(string) {
+function makeInt(string,base) {
 parseInt(string)
 parseFloat(string,10)
   return (string)
