@@ -28,4 +28,5 @@ var number = parseInt(n,10)
 
 functino preserveDecimal(n) {
   var number = parseFloat(n)
+  return number
 }
