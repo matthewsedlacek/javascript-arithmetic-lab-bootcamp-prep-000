@@ -22,7 +22,6 @@ function decrement(n) {
 }
 
 function makeInt(string,base) {
-var base = 10
 parseFloat(string,base)
   return (string)
 }
