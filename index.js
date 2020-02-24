@@ -27,6 +27,6 @@ function makeInt(n) {
 }
 
 function makeInt(string) {
-parseFloat(string)
+parseFloat(string,10)
   return (string)
 }
