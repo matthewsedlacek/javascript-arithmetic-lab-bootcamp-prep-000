@@ -12,5 +12,5 @@ function divide (x,y) {
 }
 
 function increment(n) {
-  
+  n++
 }
