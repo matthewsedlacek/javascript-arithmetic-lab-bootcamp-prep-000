@@ -1,6 +1,6 @@
-add ();
-subtract ();
-multiply ();
+function add(x,y);
+function subtract (x,y);
+function multiply(x,y);
 divide ();
 
 var number = 10
